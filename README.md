@@ -15,9 +15,6 @@ Hi, I'm Joey!<br><br>I'm a second-semester Computer Science student based in Vie
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m0rdhai&theme=catppuccin_latte&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=m0rdhai&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
 
