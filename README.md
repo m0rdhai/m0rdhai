@@ -22,7 +22,7 @@ I love exploring how systems work under the hood and combining technical knowled
 ## 💼 Experience
 
 **THQ Nordic — Graphical Artist**  
-*Aug 2024 – Nov 2025 | Vienna*
+*Aug 2024 – Nov 2025*
 
 **THQ Nordic — Junior Graphical Artist**  
 *Feb 2024 – Aug 2024*
@@ -32,7 +32,7 @@ I love exploring how systems work under the hood and combining technical knowled
 ## 🎓 Education
 
 **FH Technikum Wien**  
-_BSc Computer Science (2023–2028)*  
+*BSc Computer Science (2023–2028)*  
 *(Paused Sept 2024 — Resuming Feb 2026)*
 
 ---
