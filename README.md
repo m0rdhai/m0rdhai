@@ -96,7 +96,6 @@ Matura (High School Diploma)
 
 Email: [johanna@rossoll.at](mailto:johanna@rossoll.at)
 LinkedIn: https://www.linkedin.com/in/johanna-rossoll/
-GitHub: https://github.com/m0rdhai
 
 ---
 
