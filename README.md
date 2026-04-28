@@ -15,7 +15,7 @@ I'm a computer science student with a creative background in game-related design
 - 🐉 Fantasy & Sci-Fi
 - 🕷️ Spiders
 
-I love exploring how systems work under the hood and combining technical knowledge with creativity.
+I love exploring how systems work and combining technical knowledge with creativity.
 
 ---
 
