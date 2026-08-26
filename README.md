@@ -1,4 +1,4 @@
-# Johanna Rossoll
+# Johanna
 
 Computer Science student at FH Technikum Wien with a background in graphical design and a strong interest in combining technical systems with creative work.
 
@@ -45,14 +45,14 @@ February 2026 – June 2026
 ## Tech Stack
 
 **Languages**
-C/C++, C#, SQL, PHP, HTML/CSS, JavaScript, TypeScript, Dart, Inform 7
+C/C++, C#, SQL, PHP, HTML/CSS, JavaScript, TypeScript, Dart, Inform
 
 **Frameworks & Tools**
-Angular, React, Flutter, Bootstrap
+Angular, React, Flutter, Bootstrap,
 Git, GitHub, Visual Studio Code, IntelliJ, Supabase, Azure DevOps
 
 **Systems & Shells**
-Windows, macOS, Debian, Ubuntu, Arch Linux
+Windows, macOS, Debian, Ubuntu, Arch Linux,
 Bash, Fish, PowerShell
 
 ---
@@ -75,7 +75,6 @@ Confluence, Jira
 **FH Technikum Wien**
 Bachelor of Science in Computer Science
 2023 – 2028
-(Paused September 2024 — Resuming February 2026)
 
 **Gymnasium Sacré Coeur Wien Rennweg**
 Matura (High School Diploma)
@@ -94,7 +93,7 @@ Matura (High School Diploma)
 
 ## Contact
 
-Email: [johanna@rossoll.at](mailto:johanna@rossoll.at)
+Email: [if25b502@technikum-wien.at](mailto:if25b502@technikum-wien.at)
 LinkedIn: https://www.linkedin.com/in/johanna-rossoll/
 
 ---
