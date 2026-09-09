@@ -31,6 +31,13 @@ February 2024 – November 2025
 
 ## Projects
 
+[**Discord Bot**](https://github.com/m0rdhai/tone-indicator-bot.git)
+Node.js, Javascript, discord.js
+September 2026
+* Developed a Discord bot that formats user messages using tone indicators (/j, /s, etc.) and custom ANSI color coding via webhooks
+* Implemented Slash Commands (/tonyhelp, /tonyset) allowing users to easily customize their preferred colors per indicator
+* Designed a lightweight local JSON storage system to save user-specific preferences across servers
+
 **Questify**
 Angular, C#, PostgreSQL
 February 2026 – June 2026
